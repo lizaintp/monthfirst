@@ -30,7 +30,7 @@ number2 = int(input("Введите второе число: "))
 print(number1*number2)
 
 
-intejer, string, float , bool
+#intejer, string, float , bool
 
 intejer = int
 
@@ -42,7 +42,7 @@ print (number)
 print(int(number))
 
 
-string - str
+#string - str
 
 number = "4"
 print(type(number))

@@ -36,10 +36,10 @@ for hello in range(1000):   # range - диапазон
 
 # name = input("Введите имя: ")
 # while True:
-#     n +=1
-#     if n  ==3:
-#         break
-#         continue
+    # n +=1
+    # if n  ==3:
+    #     break
+    #     continue
 #     else:
 #         car = input("Введите название машина: ")
 #         if car in auto:

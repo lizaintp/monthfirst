@@ -1,11 +1,11 @@
-# users = [2,"hello", True,[1,2,3,4],2.3]
-# print(users)
+users = [2,"hello", True,[1,2,3,4],2.3]
+print(users)
 
-# numbers = [1,2,3,4,1,2,3,4]
-# print(numbers)
-# #           0           1           2           3
-# users = ["Geeks", "Kutbuhanbek", "Nurbek", "Aibek"]
-# print(users[1:4])
+numbers = [1,2,3,4,1,2,3,4]
+print(numbers)
+#           0           1           2           3
+users = ["Geeks", "Kutbuhanbek", "Nurbek", "Aibek"]
+print(users[1:4])
 
 # Методы добавление в список
 
